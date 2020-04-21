@@ -13,4 +13,4 @@ goto [](https://discordapp.com/developers/applications) and creating your own se
 ### Run
 ```python run.py```
 ### Query
-Send command ```@誰在玩``` to Discord text channel where bot was existed.
+tags bot ```@<ur_bot_name>``` to Discord text channel where bot was existed.
